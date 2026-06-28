@@ -1,5 +1,5 @@
 <h1> Weather-application </h1>
-A simple Weather Application that allows user to fetch data in real time,
+A simple Weather Application that allows user to fetch data in real time
 by city name.
 <br>
 <h2>Features</h2>

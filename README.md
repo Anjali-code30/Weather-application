@@ -18,7 +18,7 @@ by city name.
 <li>OpenWeatherMap API</li>
 </ul>
 
-Image of Weather Applicaton
-<img src = "<img width="1366" height="768" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/00d2f708-002c-4a99-924a-27f0db6cf92f" alt = "Weather-application-img"/>
+
+ "<img width="1366" height="768" alt="Screenshot (4)" src="https://github.com/user-attachments/assets/00d2f708-002c-4a99-924a-27f0db6cf92f" alt = "Weather-application-img"/>
 
 "
